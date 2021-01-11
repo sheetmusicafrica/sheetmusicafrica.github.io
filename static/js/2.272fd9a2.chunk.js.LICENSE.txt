@@ -4,6 +4,16 @@ object-assign
 @license MIT
 */
 
+/**
+ * @licence
+ * @author Sergey Melyukov 2016
+ */
+
+/**
+ * @licence MIT
+ * @author Sergey Melyukov
+ */
+
 /** @license React v0.20.1
  * scheduler.production.min.js
  *
